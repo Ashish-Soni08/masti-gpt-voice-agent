@@ -126,6 +126,8 @@ This project is licensed under the Apache License 2.0
 
 ---
 
+![Banner](banner.png)
+
 <div align="center">
 
 **Made with ❤️ and lots of masti for the Vapi Build Challenge 2025**
