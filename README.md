@@ -132,7 +132,7 @@ This project is licensed under the Apache License 2.0
 
 **Made with ❤️ and lots of masti for the Vapi Build Challenge 2025**
 
-[🔗 Try Masti_GPT](your-agent-url) | [📺 Demo Video](your-demo-url)
+[🔗 Try Masti_GPT](https://vapi.ai?demo=true&shareKey=983c93a3-cf70-4dd6-a7a1-b8f7fac7b003&assistantId=f9b9ecd6-5bcc-43db-89cf-2e2809e9ef3d) | [📺 Demo Video](your-demo-url)
 
 *"Because sometimes the best AI is just really fun to talk to!"*
 
